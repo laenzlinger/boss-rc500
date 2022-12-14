@@ -7,6 +7,10 @@ EDITOR_DIR = ../../music/boss-rc500-editor/
 snyc-from-device: check-device ## snyc data from the mounted device
 	rsync -a $(DEVICE_DIR)/ data
 
+write-config-to-device: check-device ## write the config to the device
+	rsync -a data/DATA/ $(DEVICE_DIR)/DATA
+
+
 edit: ## start the editor
 	cp presets/* $(EDITOR_DIR)/resources/presets
 	cd $(EDITOR_DIR) && ./build/bin/BossRc500
