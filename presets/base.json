@@ -1,0 +1,192 @@
+{
+  "ASSIGN": [
+    {
+      "Source": 12,
+      "SourceMode": 0,
+      "Sw": 1,
+      "Target": 92,
+      "TargetMax": 0,
+      "TargetMin": 0,
+      "id": 0
+    },
+    {
+      "Source": 13,
+      "SourceMode": 0,
+      "Sw": 1,
+      "Target": 93,
+      "TargetMax": 0,
+      "TargetMin": 0,
+      "id": 1
+    },
+    {
+      "Source": 14,
+      "SourceMode": 0,
+      "Sw": 1,
+      "Target": 33,
+      "TargetMax": 0,
+      "TargetMin": 0,
+      "id": 2
+    },
+    {
+      "Source": 15,
+      "SourceMode": 0,
+      "Sw": 1,
+      "Target": 71,
+      "TargetMax": 0,
+      "TargetMin": 0,
+      "id": 3
+    },
+    {
+      "Source": 16,
+      "SourceMode": 1,
+      "Sw": 1,
+      "Target": 78,
+      "TargetMax": 1,
+      "TargetMin": 0,
+      "id": 4
+    },
+    {
+      "Source": 17,
+      "SourceMode": 0,
+      "Sw": 1,
+      "Target": 63,
+      "TargetMax": 1,
+      "TargetMin": 0,
+      "id": 5
+    },
+    {
+      "Source": 0,
+      "SourceMode": 0,
+      "Sw": 0,
+      "Target": 0,
+      "TargetMax": 1,
+      "TargetMin": 0,
+      "id": 6
+    },
+    {
+      "Source": 0,
+      "SourceMode": 0,
+      "Sw": 0,
+      "Target": 0,
+      "TargetMax": 1,
+      "TargetMin": 0,
+      "id": 7
+    }
+  ],
+  "CTL": {
+    "Ctl1": 44,
+    "Ctl2": 53,
+    "Exp": 13,
+    "Pedal1": 28,
+    "Pedal2": 36,
+    "Pedal3": 27
+  },
+  "LOOPFX": {
+    "FxType": 4,
+    "RepeatLength": 3,
+    "ScatterLength": 2,
+    "ShiftShift": 3,
+    "Sw": 0,
+    "VinylFlickFlick": 50
+  },
+  "MASTER": {
+    "AllStart": 0,
+    "AllTrackSel": 0,
+    "AutoRec": 0,
+    "AutoRecSens": 50,
+    "AutoRecSrc": 0,
+    "CurrentTrack": 0,
+    "DubMode": 0,
+    "FadeTime": 5,
+    "Level": 100,
+    "LpLen": 0,
+    "LpMod": 0,
+    "PlayMode": 0,
+    "RecAction": 1,
+    "RecQuantize": 0,
+    "SinglPlayeChange": 0,
+    "Sync": 0,
+    "Tempo": 1200,
+    "TrackChain": 0,
+    "TrkMod": 1
+  },
+  "NAME": {
+    "C01": 77,
+    "C02": 101,
+    "C03": 109,
+    "C04": 111,
+    "C05": 114,
+    "C06": 121,
+    "C07": 48,
+    "C08": 49,
+    "C09": 32,
+    "C10": 32,
+    "C11": 32,
+    "C12": 32
+  },
+  "RHYTHM": {
+    "Beat": 2,
+    "Fill": 1,
+    "Kit": 0,
+    "Level": 60,
+    "Part1": 1,
+    "Part2": 1,
+    "Part3": 1,
+    "Part4": 0,
+    "Pattern": 0,
+    "PlayCount": 0,
+    "RecCount": 1,
+    "Reverb": 30,
+    "Start": 0,
+    "State": 0,
+    "Stop": 1,
+    "ToneHigh": 10,
+    "ToneLow": 10,
+    "Variation": 0,
+    "VariationChange": 0
+  },
+  "TRACK": [
+    {
+      "Input": 0,
+      "LoopFx": 1,
+      "LoopSync": 1,
+      "MeasBtLp": 0,
+      "MeasLen": 0,
+      "MeasMod": 1,
+      "Measure": 1,
+      "One": 0,
+      "Output": 0,
+      "Pan": 50,
+      "PlyLvl": 100,
+      "RecTmp": 1200,
+      "Rev": 0,
+      "StpMod": 0,
+      "StrtMod": 0,
+      "TempoSync": 1,
+      "WavLen": 0,
+      "WavStat": 0
+    },
+    {
+      "Input": 0,
+      "LoopFx": 1,
+      "LoopSync": 1,
+      "MeasBtLp": 0,
+      "MeasLen": 0,
+      "MeasMod": 1,
+      "Measure": 1,
+      "One": 0,
+      "Output": 0,
+      "Pan": 50,
+      "PlyLvl": 100,
+      "RecTmp": 1200,
+      "Rev": 0,
+      "StpMod": 0,
+      "StrtMod": 0,
+      "TempoSync": 1,
+      "WavLen": 0,
+      "WavStat": 0
+    }
+  ],
+  "id": 0,
+  "name": "Memory01"
+}
