@@ -1472,7 +1472,7 @@
 	<TempoSync>1</TempoSync>
 	<Input>0</Input>
 	<Output>0</Output>
-	<MeasMod>1</MeasMod>
+	<MeasMod>2</MeasMod>
 	<MeasLen>16</MeasLen>
 	<MeasBtLp>0</MeasBtLp>
 	<RecTmp>1133</RecTmp>
@@ -3382,7 +3382,7 @@
 	<TargetMax>1</TargetMax>
 </ASSIGN8>
 </mem>
-<mem id="19" name="Memory20">
+<mem id="0" name="Memory20">
 <NAME>
 	<C01>77</C01>
 	<C02>101</C02>
@@ -3467,7 +3467,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -3479,7 +3479,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -3496,50 +3496,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -3645,7 +3645,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -3657,7 +3657,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -3674,50 +3674,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -3823,7 +3823,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -3835,7 +3835,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -3852,50 +3852,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4001,7 +4001,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4013,7 +4013,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4030,50 +4030,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4179,7 +4179,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4191,7 +4191,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4208,50 +4208,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4357,7 +4357,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4369,7 +4369,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4386,50 +4386,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4535,7 +4535,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4547,7 +4547,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4564,50 +4564,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4713,7 +4713,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4725,7 +4725,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4742,50 +4742,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -4891,7 +4891,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -4903,7 +4903,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -4920,50 +4920,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5069,7 +5069,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5081,7 +5081,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5098,50 +5098,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5247,7 +5247,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5259,7 +5259,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5276,50 +5276,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5425,7 +5425,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5437,7 +5437,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5454,50 +5454,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5603,7 +5603,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5615,7 +5615,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5632,50 +5632,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5781,7 +5781,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5793,7 +5793,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5810,50 +5810,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -5959,7 +5959,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -5971,7 +5971,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -5988,50 +5988,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -6137,7 +6137,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -6149,7 +6149,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -6166,50 +6166,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -6315,7 +6315,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -6327,7 +6327,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -6344,50 +6344,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -6493,7 +6493,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -6505,7 +6505,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -6522,50 +6522,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -6671,7 +6671,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -6683,7 +6683,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -6700,50 +6700,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -6849,7 +6849,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -6861,7 +6861,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -6878,50 +6878,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
@@ -7027,7 +7027,7 @@
 	<VinylFlickFlick>50</VinylFlickFlick>
 </LOOPFX>
 <RHYTHM>
-	<Level>100</Level>
+	<Level>60</Level>
 	<Reverb>30</Reverb>
 	<Pattern>0</Pattern>
 	<Variation>0</Variation>
@@ -7039,7 +7039,7 @@
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>0</RecCount>
+	<RecCount>1</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
@@ -7056,50 +7056,50 @@
 	<Exp>13</Exp>
 </CTL>
 <ASSIGN1>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>12</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>92</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN1>
 <ASSIGN2>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>13</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>93</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN2>
 <ASSIGN3>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>14</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>33</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN3>
 <ASSIGN4>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>15</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>71</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>0</TargetMax>
 </ASSIGN4>
 <ASSIGN5>
-	<Sw>0</Sw>
-	<Source>0</Source>
-	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Sw>1</Sw>
+	<Source>16</Source>
+	<SourceMode>1</SourceMode>
+	<Target>78</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN5>
 <ASSIGN6>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>17</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>63</Target>
 	<TargetMin>0</TargetMin>
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
