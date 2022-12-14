@@ -2,7 +2,7 @@
 <database name="RC-500" revision="0">
 <sys>
 <SETUP>
-	<MemoryNumber>20</MemoryNumber>
+	<MemoryNumber>21</MemoryNumber>
 	<DisplayMode>2</DisplayMode>
 	<Contrast>4</Contrast>
 	<UndoRedo>0</UndoRedo>
@@ -57,4 +57,3 @@
 </PREF>
 </sys>
 </database>
-vf>
