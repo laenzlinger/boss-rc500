@@ -1,6 +1,6 @@
 DEVICE_DIR = /Volumes/BOSS\ RC-500/ROLAND
 EDITOR_DIR = ../../music/boss-rc500-editor/
-.PHONY: help sync-from-device check-device
+.PHONY: help read-from-device check-device
 
 .DEFAULT_GOAL := help
 
@@ -16,11 +16,10 @@ edit: ## start the editor
 	cd $(EDITOR_DIR) && ./build/bin/BossRc500
 
 check-device:
-ifneq ("$(wildcard $(DEVICE_DIR))","")
-	$(info Device is mounted)
-else
-    $(error Device is not mounted on ${DEVICE_DIR})
-endif
+	@if [ ! -d "$(DEVICE_DIR)" ]; then \
+        echo "Device is not mounted on $(DIR1)"; \
+        exit 1; \
+    fi
 
 help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
