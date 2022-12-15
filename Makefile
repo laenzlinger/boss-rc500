@@ -4,7 +4,7 @@ EDITOR_DIR = ../../music/boss-rc500-editor/
 
 .DEFAULT_GOAL := help
 
-snyc-from-device: check-device ## snyc data from the mounted device
+read-from-device: check-device ## snyc data from the mounted device
 	rsync -a $(DEVICE_DIR)/ data
 
 write-config-to-device: check-device ## write the config to the device
