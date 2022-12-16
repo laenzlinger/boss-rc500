@@ -16,8 +16,8 @@ edit: ## start the editor
 	cd $(EDITOR_DIR) && ./build/bin/BossRc500
 
 check-device:
-	@if [ ! -d "$(DEVICE_DIR)" ]; then \
-        echo "Device is not mounted on $(DIR1)"; \
+	@if [ ! -d $(DEVICE_DIR) ]; then \
+        echo "Device is not mounted on $(DEVICE_DIR)"; \
         exit 1; \
     fi
 
