@@ -8,14 +8,14 @@
 	<UndoRedo>0</UndoRedo>
 	<ExtentCh>0</ExtentCh>
 	<Extent1Min>0</Extent1Min>
-	<Extent1Max>98</Extent1Max>
-	<Extent2Min>0</Extent2Min>
-	<Extent2Max>98</Extent2Max>
-	<Extent3Min>0</Extent3Min>
-	<Extent3Max>98</Extent3Max>
-	<Extent4Min>0</Extent4Min>
-	<Extent4Max>98</Extent4Max>
-	<Extent5Min>0</Extent5Min>
+	<Extent1Max>18</Extent1Max>
+	<Extent2Min>19</Extent2Min>
+	<Extent2Max>38</Extent2Max>
+	<Extent3Min>39</Extent3Min>
+	<Extent3Max>58</Extent3Max>
+	<Extent4Min>59</Extent4Min>
+	<Extent4Max>78</Extent4Max>
+	<Extent5Min>79</Extent5Min>
 	<Extent5Max>98</Extent5Max>
 </SETUP>
 <MIDI>
@@ -41,7 +41,7 @@
 </INPUT>
 <CTL>
 	<Pedal1>28</Pedal1>
-	<Pedal2>36</Pedal2>
+	<Pedal2>35</Pedal2>
 	<Pedal3>27</Pedal3>
 	<Ctl1>44</Ctl1>
 	<Ctl2>53</Ctl2>
