@@ -31,7 +31,7 @@
 	<UsbThru>0</UsbThru>
 </MIDI>
 <INPUT>
-	<Phantom>0</Phantom>
+	<Phantom>1</Phantom>
 	<MicOut>0</MicOut>
 	<InstOut>0</InstOut>
 	<RhythmOut>0</RhythmOut>
@@ -43,8 +43,8 @@
 	<Pedal1>28</Pedal1>
 	<Pedal2>35</Pedal2>
 	<Pedal3>27</Pedal3>
-	<Ctl1>44</Ctl1>
-	<Ctl2>53</Ctl2>
+	<Ctl1>5</Ctl1>
+	<Ctl2>18</Ctl2>
 	<Exp>13</Exp>
 </CTL>
 <PREF>
