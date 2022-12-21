@@ -87,10 +87,10 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>22</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
