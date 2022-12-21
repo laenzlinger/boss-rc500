@@ -3469,23 +3469,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -3647,23 +3647,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -3825,23 +3825,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4003,23 +4003,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4181,23 +4181,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4359,23 +4359,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4537,23 +4537,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4715,23 +4715,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -4893,23 +4893,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5071,23 +5071,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5249,23 +5249,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5427,23 +5427,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5605,23 +5605,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5783,23 +5783,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -5961,23 +5961,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -6139,23 +6139,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -6317,23 +6317,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -6495,23 +6495,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -6673,23 +6673,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -6851,23 +6851,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7029,23 +7029,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7207,23 +7207,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7385,23 +7385,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7563,23 +7563,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7741,23 +7741,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -7919,23 +7919,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8097,23 +8097,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8275,23 +8275,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8453,23 +8453,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8631,23 +8631,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8809,23 +8809,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -8987,23 +8987,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -9165,23 +9165,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -9343,23 +9343,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -9521,23 +9521,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -9699,23 +9699,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -9877,23 +9877,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10055,23 +10055,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10233,23 +10233,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10411,23 +10411,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10589,23 +10589,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10767,23 +10767,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -10945,23 +10945,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -11123,23 +11123,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -11301,23 +11301,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -11479,23 +11479,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -11657,23 +11657,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -11835,23 +11835,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12013,23 +12013,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12191,23 +12191,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12369,23 +12369,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12547,23 +12547,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12725,23 +12725,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -12903,23 +12903,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13081,23 +13081,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13259,23 +13259,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13437,23 +13437,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13615,23 +13615,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13793,23 +13793,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -13971,23 +13971,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -14149,23 +14149,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -14327,23 +14327,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -14505,23 +14505,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -14683,23 +14683,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -14861,23 +14861,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15039,23 +15039,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15217,23 +15217,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15395,23 +15395,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15573,23 +15573,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15751,23 +15751,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -15929,23 +15929,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16107,23 +16107,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16285,23 +16285,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16463,23 +16463,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16641,23 +16641,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16819,23 +16819,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -16997,23 +16997,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -17175,23 +17175,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -17353,23 +17353,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
@@ -17531,23 +17531,23 @@
 <RHYTHM>
 	<Level>60</Level>
 	<Reverb>30</Reverb>
-	<Pattern>19</Pattern>
+	<Pattern>31</Pattern>
 	<Variation>0</Variation>
 	<VariationChange>0</VariationChange>
-	<Kit>0</Kit>
+	<Kit>6</Kit>
 	<Beat>2</Beat>
 	<Fill>1</Fill>
 	<Part1>1</Part1>
 	<Part2>1</Part2>
 	<Part3>1</Part3>
 	<Part4>0</Part4>
-	<RecCount>1</RecCount>
+	<RecCount>0</RecCount>
 	<PlayCount>0</PlayCount>
 	<Start>0</Start>
 	<Stop>1</Stop>
 	<ToneLow>10</ToneLow>
 	<ToneHigh>10</ToneHigh>
-	<State>0</State>
+	<State>1</State>
 </RHYTHM>
 <CTL>
 	<Pedal1>28</Pedal1>
