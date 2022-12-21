@@ -162,20 +162,20 @@
 	<TargetMax>1</TargetMax>
 </ASSIGN6>
 <ASSIGN7>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>18</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>77</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>56</TargetMax>
 </ASSIGN7>
 <ASSIGN8>
-	<Sw>0</Sw>
-	<Source>0</Source>
+	<Sw>1</Sw>
+	<Source>19</Source>
 	<SourceMode>0</SourceMode>
-	<Target>0</Target>
+	<Target>80</Target>
 	<TargetMin>0</TargetMin>
-	<TargetMax>1</TargetMax>
+	<TargetMax>15</TargetMax>
 </ASSIGN8>
 </mem>
 <mem id="1" name="BluesMaxin">

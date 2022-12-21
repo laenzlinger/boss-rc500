@@ -6,3 +6,9 @@ A repostory to configure and backup my BOSS RC-500
 2. MENU -> STORAGE -> CONNECTING
 3. BOSS RC-500 Drive appears
 
+
+## Special Memories
+
+* 20: Is the template (Default) memory
+
+
