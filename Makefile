@@ -1,4 +1,4 @@
-MOUNT_POINT ?= /mnt/boss-rc500 
+MOUNT_POINT ?= /mnt/boss-rc500
 DEVICE_DIR = $(MOUNT_POINT)/ROLAND
 EDITOR_DIR = ../../music/boss-rc500-editor/
 .PHONY: help read-from-device check-device
