@@ -1,8 +1,15 @@
-DEVICE_DIR = /Volumes/BOSS\ RC-500/ROLAND
+MOUNT_POINT ?= /mnt/boss-rc500 
+DEVICE_DIR = $(MOUNT_POINT)/ROLAND
 EDITOR_DIR = ../../music/boss-rc500-editor/
 .PHONY: help read-from-device check-device
 
 .DEFAULT_GOAL := help
+
+mount: ## mount the boss device
+	sudo mount -o uid=1000,gid=1000 /dev/disk/by-label/BOSS\\x20RC-500 $(MOUNT_POINT)
+
+umount: ## unmount the boss device
+	sudo umount $(MOUNT_POINT)
 
 read-from-device: check-device ## snyc data from the mounted device
 	rsync -a $(DEVICE_DIR)/ data
